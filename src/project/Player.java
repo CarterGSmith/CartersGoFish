@@ -4,6 +4,7 @@
  * Add your name as an author and the date!
  */
 
+ package project;
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  *
